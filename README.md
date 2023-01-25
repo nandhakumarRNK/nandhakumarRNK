@@ -38,7 +38,7 @@
 <!-- Trophies 🏆 -->
 <h3 align="center">Trophies 🏆</h3>
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=NandhakumarRNK&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="trophies" />
+   <img src="https://github-profile-trophy.vercel.app/?username=NandhakumarRNK&column=3&margin-w=15&margin-h=15&&no-frame=false&theme=juicyfresh" alt="trophies" />
 </p>
 
 #
