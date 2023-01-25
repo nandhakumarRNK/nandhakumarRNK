@@ -35,9 +35,11 @@
 </p> -->
 
 #
+<!-- Trophies 🏆 -->
+<h3 align="center">Trophies 🏆</h3>
 <p align="center">
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NandhakumarRNK&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-  </p>
+   <img src="https://github-profile-trophy.vercel.app/?username=NandhakumarRNK&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="trophies" />
+</p>
 
 #
 
@@ -66,8 +68,4 @@
 ```
 
 </h4>  
-<!-- Trophies 🏆 -->
-<h3 align="center">Trophies 🏆</h3>
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=NandhakumarRNK" alt="trophies" />
-</p>
+
