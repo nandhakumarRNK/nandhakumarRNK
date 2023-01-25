@@ -64,3 +64,8 @@
 ```
 
 </h4>  
+<!-- Trophies 🏆 -->
+<h3 align="center">Trophies 🏆</h3>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NandhakumarRNK&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
+</p>
