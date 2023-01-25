@@ -35,7 +35,9 @@
 </p> -->
 
 #
+<p align="center">
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=NandhakumarRNK&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+  </p>
 
 #
 
