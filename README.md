@@ -43,6 +43,10 @@
 
 #
 
+![Snake animation](https://github.com/nandhakumarRNK/nandhakumarRNK/blob/output/assests/snakeGrid.svg)
+
+#
+
 <h4 align="center">
   
 ```diff
@@ -68,3 +72,8 @@
 ```
 
 </h4>  
+
+
+#
+
+<img src="https://raw.githubusercontent.com/nandhakumarRNK/nandhakumarRNK/main/assests/dance.gif" object-fit="contain" align="right" width="100%" >
