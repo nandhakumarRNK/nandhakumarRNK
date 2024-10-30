@@ -25,7 +25,7 @@
 
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-choudharys/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([https://www.instagram.com/abhishek_choudhary.99](https://www.instagram.com/_mr_rnk)/)  [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:nandha28052000@gmail.com) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/nandhakumar-r-45ab04290?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([(https://www.instagram.com/_mr_rnk)](https://www.instagram.com/_mr_rnk)/)  [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:nandha28052000@gmail.com) 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=nandhakumarRNK&style=for-the-badge)
 
 
