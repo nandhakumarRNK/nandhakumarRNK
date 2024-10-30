@@ -9,7 +9,7 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ysherqawi/ysherqawi/raw/master/images/developer.gif"/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=nandhakumarRNK&style=flat-square)
+![Visitor Badge](https://komarev.com/ghpvc/?username=nandhakumarRNK&style=flat-square&color=brightgreen)
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Full Stack 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **React ,UI 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
@@ -26,7 +26,7 @@
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhishek-choudharys/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([https://www.instagram.com/abhishek_choudhary.99](https://www.instagram.com/_mr_rnk)/)  [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:nandha28052000@gmail.com) 
-![Visits Badge](https://badges.pufler.dev/visits/nandhakumarRNK/nandhakumarRNK?style=for-the-badge)
+![Visitor Badge](https://komarev.com/ghpvc/?username=nandhakumarRNK&style=for-the-badge)
 
 
 
